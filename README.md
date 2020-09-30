@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Macklin Anthony Dias</h2>
 
-A Digital Media Specialist with a comprehensive knowledge of Digital Marketing & Web Development!
+A Digital Media Specialist with a comprehensive knowledge of Digital Marketing, Graphic Design & Web Development!
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | MongoDB
 - 🖥 &nbsp; Illustrator | Photoshop | Figma 
