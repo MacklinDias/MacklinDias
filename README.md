@@ -6,6 +6,7 @@ A Digital Media Specialist with a comprehensive knowledge of Digital Marketing, 
 - 🖥 &nbsp; Illustrator | Photoshop | Figma 
 - 📚 &nbsp; Learning Next: Python
 
+- ⏱ &nbsp; Currently working on www.canischool.com & www.heartofgold.ae
 - 💼 &nbsp; You can connect with me on <a href="https://www.linkedin.com/in/macklindias/">LinkedIn</a> <br>
 - 🌐 &nbsp; Take a look at my work at <a href="https://macklindias.me/">www.macklindias.me</a> <br>
 
