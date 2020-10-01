@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Macklin Anthony Dias</h2>
+<h3> Hey there! I'm Macklin </h3>
 
 A Digital Media Specialist with a comprehensive knowledge of Digital Marketing, Graphic Design & Web Development!
 
