@@ -2,7 +2,7 @@
 
 A Digital Media Specialist with a comprehensive knowledge of Digital Marketing, Graphic Design & Web Development!
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | MongoDB
 - 🖥 &nbsp; Illustrator | Photoshop | Figma 
 - 📚 &nbsp; Learning Next: Python
 
